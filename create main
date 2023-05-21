@@ -1,0 +1,7 @@
+ansh = [1,2,3,6,5]
+ansh.insert(4,100)
+ansh.append(500)
+ansh.sort()
+ansh.remove(6)
+
+print(ansh)
